@@ -5,4 +5,9 @@ https://www.google.com/shopping/ratings/account/metrics?q=amols.com&c=GLOBAL&v=3
 </br>
 https://www.google.com/shopping/ratings/account/metrics?q=target.com&c=GLOBAL&v=3&hl=en&sa=X
 </br>
-
+https://www.google.com/shopping/seller?q=example.com.
+</br>
+说明：
+</br>
+https://support.google.com/adwords/answer/2375474
+</br>
