@@ -11,3 +11,7 @@ https://www.google.com/shopping/seller?q=example.com.
 </br>
 https://support.google.com/adwords/answer/2375474
 </br>
+</br>
+</br>
+产品页面</br>
+https://www.google.com/shopping/product/7286496575464726038
